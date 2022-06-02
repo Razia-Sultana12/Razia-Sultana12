@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Razia-Sultana12
-- 👀 I’m interested in orogramming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nisridhika@gmail.com
